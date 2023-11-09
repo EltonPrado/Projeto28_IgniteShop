@@ -55,7 +55,7 @@ export const ProductDetails = styled('div', {
     backgroundColor: '$green500',
     border: 0,
     color: '$white',
-    borderRadius: 0,
+    borderRadius: 8,
     padding: '1.25rem',
     cursor: 'pointer',
     fontWeight: 'bold',
