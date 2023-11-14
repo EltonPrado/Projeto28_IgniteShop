@@ -25,7 +25,6 @@ export const SuccessContainer = styled('main', {
   a: {
     display: 'block',
     marginTop: '5rem',
-    //foi utilizado o calculo: 80 / 16 = 5
     textDecoration: 'none',
     fontSize: '$lg',
     fontWeight: 'bold',
